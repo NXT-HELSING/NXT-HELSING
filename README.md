@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a junior full-stack developer with a keen interest in building and optimizing web applications. My journey into web development began with a curiosity about how web technologies work and a passion for creating seamless user experiences. I specialize in Laravel and have experience developing e-commerce websites, e-learning platforms, and admin dashboards.<br><br>With expertise in both front-end and back-end development, I thrive on solving problems, learning new technologies, and delivering responsive and user-friendly designs. Based in Morocco, I’m continually seeking opportunities to expand my skill set and contribute to impactful projects.
+Passionate full-stack developer with a strong focus on building efficient, scalable, and user-friendly web applications. Specializing in Laravel, I excel in back-end logic and front-end integration to deliver seamless experiences. With a problem-solving mindset and a commitment to continuous learning, I thrive on turning challenges into innovative solutions. Based in Morocco, I’m dedicated to contributing to impactful projects that make a difference
 
 
 ## 🌐 Socials:
