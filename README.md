@@ -92,16 +92,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NXT-HELSING&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXT-HELSING&layout=compact&langs_count=8&theme=radical&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NXT-HELSING&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXT-HELSING&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NXT-HELSING&theme=radical&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FF0000&sideNums=FF0000&dates=FFFFFF&border=FF0000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NXT-HELSING&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NXT-HELSING&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=false&border_color=FF0000&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NXT-HELSING&theme=redical" />
 </div>
 
 ---
@@ -109,7 +109,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NXT-HELSING&theme=radical&no-frame=false&no-bg=false&margin-w=8&column=4&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NXT-HELSING&theme=radical&no-frame=false&no-bg=false&margin-w=8&column=4" />
 </div>
 
 ---
@@ -141,7 +141,7 @@ fun_fact: "I debug with console.log more than I'd like to admit 😅"
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -149,9 +149,9 @@ fun_fact: "I debug with console.log more than I'd like to admit 😅"
 
 <div align="center">
   
-### 🎵 Currently Vibing to
+### 🎵 What I'm Listening To
   
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&bg_color=000000&border_color=FF0000)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=000000&border_color=ff0000)
 
 </div>
 
