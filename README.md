@@ -2,12 +2,12 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;Laravel+%26+React+Specialist;Turning+Ideas+into+Reality;Always+Learning%2C+Always+Building!)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;Laravel+Specialist;Turning+Ideas+into+Reality;Always+Learning%2C+Always+Building!)
 
 </div>
 
 > 🚀 **Passionate Full-Stack Developer from Morocco** 🇲🇦  
-> 🧠 I turn ideas into **scalable and user-friendly** web experiences  
+> � I turn ideas into **scalable and user-friendly** web experiences  
 > 🛠️ Specialized in **Laravel** & modern JavaScript frameworks  
 > 🌱 Always learning, always building — **one line of code at a time**
 
@@ -92,14 +92,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NXT-HELSING&theme=radical&show_icons=true&hide_border=false" width="49.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NXT-HELSING&theme=radical&hide_border=false" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NXT-HELSING&theme=dark&show_icons=true&hide_border=false&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NXT-HELSING&theme=dark&hide_border=false&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&currStreakLabel=FF0000" width="49.5%"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXT-HELSING&theme=radical&layout=compact&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXT-HELSING&theme=dark&layout=compact&hide_border=false&bg_color=000000&title_color=FF0000&text_color=FFFFFF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NXT-HELSING&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NXT-HELSING&theme=redical&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" />
 </div>
 
 ---
@@ -107,7 +107,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NXT-HELSING&theme=radical&no-frame=false&no-bg=false&margin-w=8&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NXT-HELSING&theme=onedark&no-frame=false&no-bg=false&margin-w=8&column=4&title_color=FF0000&text_color=FFFFFF" />
 </div>
 
 ---
@@ -123,7 +123,6 @@ looking_to_collaborate_on: "Open source projects & startup ideas"
 ask_me_about: ["Laravel", "React", "Full-stack development", "Morocco tech scene"]
 fun_fact: "I debug with console.log more than I'd like to admit 😅"
 ```
-
 </div>
 
 ---
