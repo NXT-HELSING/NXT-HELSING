@@ -89,19 +89,17 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NXT-HELSING&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXT-HELSING&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NXT-HELSING&theme=radical&show_icons=true&hide_border=false" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NXT-HELSING&theme=radical&hide_border=false" width="49.5%"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXT-HELSING&theme=radical&layout=compact&hide_border=false" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NXT-HELSING&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NXT-HELSING&theme=redical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NXT-HELSING&theme=radical" />
 </div>
 
 ---
